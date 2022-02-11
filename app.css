@@ -11,8 +11,8 @@ body {
 
 .card {
     background-color: hsl(0, 0%, 100%);
-    width: 25em;
-    height: 37em;
+    /* width: 25em; */
+    max-width: 25em;
     margin: 1em;
     text-align: center;
     padding: 1.2em;
