@@ -38,5 +38,5 @@ I learned how to make a basic card in CSS for my first challenge.
 
 ## Author
 
--   Frontend Mentor - [@AdamElitzur](https://www.frontendmentor.io/profile/adameli)
+-   Frontend Mentor - [@AdamElitzur](https://www.frontendmentor.io/profile/adamelitzur)
 -   Twitter - [@adamcandoit](https://twitter.com/adamcandoit)
